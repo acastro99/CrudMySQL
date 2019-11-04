@@ -1,10 +1,6 @@
-Proyecto demostración a sistemas 21 A
+Proyecto tarea
 
-El proyecto esta realizado con:
+En este proyecto se tomo como ejemplo el CRUD realizado por el Prof.Gamez
 
-* El IDE de Android Studio.
-* Incluye conexión a base de datos MySQL.
-* CRUD.
-* Otros.
 
-by. Prof. Gámez.
+Se tomó el codigo por porciones para modificarlo y hacerlo funcional en la app  de tarea con diseño diferente y con un codigo un poco mas corto
